@@ -6,8 +6,6 @@ Un mot est sélectionné aléatoirement dans une liste prédéfinie.
 
 Le joueur doit deviner ce mot en proposant des lettres.
 
-À chaque mauvaise proposition, une partie du pendu est dessinée.
-
 Le jeu se termine lorsque le mot est entièrement deviné ou que le nombre maximum d’erreurs est atteint.
 
 Ce projet met en pratique :
