@@ -1,4 +1,4 @@
-L'objectif de ce prorgramme est de créer une classe, destinée à produire des objets
+L'objectif de ce programme est de créer une classe, destinée à produire des objets
  conteneurs, des dictionnaires ordonnés.
  L'idée, assez simplement, est de stocker nos données dans deux listes :
  la première contenant nos clés;
