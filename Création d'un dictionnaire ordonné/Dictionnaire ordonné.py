@@ -14,11 +14,11 @@ class DictionnaireOrdonne :
         
         #On récupère les données de 'base'
         for cle in base :
-            self._cles[cle] = base[cle]
+            self[cle] = base[cle]
         #On récupère les données de 'donnees'
 
         for cle in donnees :
-            self._cles[cle] = donnees[cle]
+            self[cle] = donnees[cle]
 
     
     def __getitem__(self, cle):
@@ -163,4 +163,5 @@ class DictionnaireOrdonne :
 
 
     
+
     
